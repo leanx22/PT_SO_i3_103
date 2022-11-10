@@ -55,3 +55,31 @@ Adaptador de LAN inal mbrica Wi-Fi:
    Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.113
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Dana Szumigraj 20:43
+
+Configuraci¦n IP de Windows
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¦fico para la conexi¦n. . : fibertel.com.ar
+   V¦nculo: direcci¦n IPv6 local. . . : fe80::dc0b:89e9:1d55:2708%12
+   Direcci¦n IPv4. . . . . . . . . . . . . . : 192.168.0.177
+   M¦scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec¦fico para la conexi¦n. . :
+   V¦nculo: direcci¦n IPv6 local. . . : fe80::6e3c:2a22:b937:2ece%8
+   Direcci¦n IPv4 de configuraci¦n autom¦tica: 169.254.13.90
+   M¦scara de subred . . . . . . . . . . . . : 255.255.0.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de t¦nel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS espec¦fico para la conexi¦n. . :
+   Direcci¦n IPv6 . . . . . . . . . . : 2001:0:2877:7aa:24f1:fbfa:4a56:1f62
+   V¦nculo: direcci¦n IPv6 local. . . : fe80::24f1:fbfa:4a56:1f62%16
+   Puerta de enlace predeterminada . . . . . :
+
