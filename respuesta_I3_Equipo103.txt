@@ -1,0 +1,12 @@
+--BETA--
+PARTICIPANTES:
+>Guia Leandro como BETA
+>
+>
+
+a- La rama master queda actualizada con todos los datos de las demas ramas.
+b- Si, se pueden ver, siempre y cuando beta cambie a la rama correspondiente y haga un pull de los cambios.
+c- Primero utilicé el comando git checkout main para moverme a dicha rama, y desde allí usé el comando
+git merge Zalazar (donde Zalazar es el apellido del compañero) y las ramas se fusionaron.
+
+
