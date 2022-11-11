@@ -2,7 +2,7 @@
 PARTICIPANTES:
 >Guia Leandro como BETA
 >Alex Zalazar Duran como GAMMA
->
+>Szumigraj Dana como ALFA
 
 a- La rama master queda actualizada con todos los datos de las demas ramas.
 b- Si, se pueden ver, siempre y cuando beta cambie a la rama correspondiente y haga un pull de los cambios.
@@ -10,13 +10,14 @@ c- Primero utilicé el comando git checkout main para moverme a dicha rama, y de
 git merge Zalazar (donde Zalazar es el apellido del compañero) y las ramas se fusionaron.
 
 --GAMMA--
-d-No. Gamma no queda con los datos actuales ya que  queda  a una vercion antigua del proyecto, pero si queda actualizado Beta porque hicimos margge a main y pasamos todos los datos a main.
+d-No. Gamma no queda con los datos actuales ya que  queda  a una vercion antigua del proyecto, pero
+si queda actualizado Beta porque hicimos merge a main y pasamos todos los datos a main.
 e-No tuvimos ningun problema.
 f-
 1- git pull 
 2- git checkout para cambiar a la rama de beta
 3- ipconfig>>beta.txt para agragar los datos 
-4- git stastus para ver los cambios
+4- git status para ver los cambios
 5- git add .
 6- git commit -m "Mensaje"
 7- git push
