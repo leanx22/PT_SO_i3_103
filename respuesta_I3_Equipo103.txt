@@ -20,3 +20,14 @@ f-
 5- git add .
 6- git commit -m "Mensaje"
 7- git push
+
+--ALFA--
+
+g-
+git pull
+git checkout main
+git checkout Guia
+ipconfig>>beta.txt
+git add .
+git commit -m "alfa agrega datos"
+git push
